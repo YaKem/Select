@@ -1,0 +1,31 @@
+h1,h2,h3,h4,h5,h6 {
+    font-family: "Oswald"
+}
+body {
+    font-family: "Open Sans"
+}    
+.select-boxes {
+    width: 280px;text-align: center;
+}
+select {
+    background-color: #F5F5F5;
+    border: 1px double #15a6c7;
+    color: #1d93d1;
+    font-family: Georgia;
+    font-weight: bold;
+    font-size: 14px;
+    height: 39px;
+    padding: 7px 8px;
+    width: 300px;
+    outline: none;
+    margin: 10px 0 10px 0;
+}
+select option{
+    font-family: Georgia;
+    font-size: 14px;
+}
+#map
+{
+    width: 910px;
+    height: 400px;
+}
